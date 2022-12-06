@@ -1,0 +1,29 @@
+{
+  "specialite": [
+    "informatique",
+    "gestion",
+    "electriques",
+    "lettres"
+  ],
+  "matieres": [
+    "JAVA",
+    "POO",
+    "Programmation"
+  ],
+  "civilite": [
+    "Mme",
+    "Mr"
+  ],
+  "visiteurs": [
+    {
+      "civilite": "Mme",
+      "nom": "pinp",
+      "prenom": "nponpo",
+      "specialite": "gestion",
+      "matieres": [
+        "Programmation"
+      ],
+      "id": 1
+    }
+  ]
+}
